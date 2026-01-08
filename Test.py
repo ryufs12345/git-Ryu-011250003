@@ -16,7 +16,7 @@ element_system = {
 # --- Expanded Player Classes ---
 classes = {
     "Warrior": {
-        "hp": 120, "attack": 15, "defense": 8, "speed": 5, "potions": 3, 
+        "hp": 110, "attack": 15, "defense": 8, "speed": 5, "potions": 3, 
         "special_ability": "Power Strike", "elemen": "Halilintar",
         "description": "Tanky warrior with high HP and defense"
     },
